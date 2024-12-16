@@ -1,0 +1,11 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Atomic",
+  "promptDelete": false,
+  "showLineNumber": true,
+  "userIgnoreFilters": [
+    "Templets/"
+  ],
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
+}
