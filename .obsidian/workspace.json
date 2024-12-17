@@ -167,6 +167,11 @@
   },
   "active": "75cf330f88dfdc12",
   "lastOpenFiles": [
+    "Books/Doctrine-and-Covenants",
+    "Books/Pearl-of-Great-Price",
+    "Books/Book-of-Mormon",
+    "Books/New-Testiment",
+    "Templets",
     "Books/Old-Testament/Epistle-Dedicatory.md",
     "Books/Old-Testament/Genesis/Genesis1.md",
     "Books/Old-Testament/Genesis",
@@ -177,7 +182,6 @@
     "Books/Old-Testament/EpistleDedicatory.md",
     "Books/Old-Testament/Epistle Dedicatory.md",
     "Books/Old-Testament/Epistle Dedicatory",
-    "Templets",
     "Atomic",
     "Readme.md",
     "Atomic/journals/2024/08/2024-08-21-Long-time.md",
@@ -196,8 +200,6 @@
     "Atomic/journals/2024/03/2024-03-10-Kalen-and-Beth.md",
     "Atomic/journals/2024/03/2024-03-22-VIM-today.md",
     "Atomic/journals/2024/03",
-    "Atomic/journals/2024",
-    "Atomic/journals",
-    "Atomic"
+    "Atomic/journals/2024"
   ]
 }
