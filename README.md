@@ -19,4 +19,3 @@ The structure of the project is as follows:
 - Atomic: These are the smallest units of study. They are the smallest units of thought that I can break the scriptures down into. They are intended to be small enough that I can study them in a single sitting.
 - Books: These are the books of the scriptures. They are broken down into chapters and verses.
 - New-Testament, Old-Testament, Book-of-Mormon, Doctrine-and-Covenants, Pearl-of-Great-Price: These are the books of the scriptures. They are broken down into chapters and verses.
-

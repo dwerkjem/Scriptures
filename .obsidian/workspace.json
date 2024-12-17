@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Books/Old-Testament/Genesis/Genesis1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Genesis1"
             }
           }
         ]
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books/Old-Testament/Epistle-Dedicatory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Epistle-Dedicatory"
             }
           },
           {
@@ -111,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Books/Old-Testament/Epistle-Dedicatory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Epistle-Dedicatory"
             }
           },
           {
@@ -136,17 +138,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Books/Old-Testament/Genesis/Genesis1.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Genesis1"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,7 +167,16 @@
   },
   "active": "75cf330f88dfdc12",
   "lastOpenFiles": [
+    "Books/Old-Testament/Epistle-Dedicatory.md",
+    "Books/Old-Testament/Genesis/Genesis1.md",
+    "Books/Old-Testament/Genesis",
+    "Atomic/Royalty.md",
+    "Atomic/King-James.md",
     "README.md",
+    "Atomic/KingJames.md",
+    "Books/Old-Testament/EpistleDedicatory.md",
+    "Books/Old-Testament/Epistle Dedicatory.md",
+    "Books/Old-Testament/Epistle Dedicatory",
     "Templets",
     "Atomic",
     "Readme.md",
