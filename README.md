@@ -8,10 +8,6 @@ The purpose of this project is to document my study of the scriptures (The Bible
 
 I am starting at a near tabula rasa state. I have read the scriptures before, but I have not studied them in depth and know very little about them in terms of their historical context.
 
-### Tools 
-
-I am a computer scientist by trade and I know that not everyone is though, so I have tried to keep the files as human-readable without the need for special tools. Obsidian is the intended tool for viewing the files, but they are just markdown files and can be viewed in any text editor. I have also included PDFs that can be viewed in any PDF viewer. 
-
 ### Structure
 
 The structure of the project is as follows:
